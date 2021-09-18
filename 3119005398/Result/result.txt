@@ -1,0 +1,5 @@
+TestDemo/orig.txt和TestDemo/orig_0.8_add.txt余弦相似度为: 81.00%
+TestDemo/orig.txt和TestDemo/orig_0.8_del.txt余弦相似度为: 66.00%
+TestDemo/orig.txt和TestDemo/orig_0.8_dis_1.txt余弦相似度为: 89.50%
+TestDemo/orig.txt和TestDemo/orig_0.8_dis_10.txt余弦相似度为: 72.50%
+TestDemo/orig.txt和TestDemo/orig_0.8_dis_15.txt余弦相似度为: 55.00%
