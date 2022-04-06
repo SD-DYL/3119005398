@@ -1,13 +1,4 @@
-# 个人项目
 
-----------
-
-| 这个作业属于哪个课程 | [< 网工1934-软件工程 >](https://edu.cnblogs.com/campus/gdgy/networkengineering1934-Softwareengineering) |
-|:-----------------:|:---------------:|
-| 这个作业要求在哪里| [作业要求](https://edu.cnblogs.com/campus/gdgy/networkengineering1934-Softwareengineering/homework/12136) |
-| 这个作业的目标 | 代码实现论文查重，性能分析，psp记录 |
-
-#本作业代码已上传[个人github](https://github.com/SD-DYL/3119005398)
 
 ##一、psp表格
 |PSP	|Personal Software Process Stages|预估耗时（分钟|	实际耗时（分钟）|
